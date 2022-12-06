@@ -1,0 +1,27 @@
+nav{ padding-left:200px; padding-left:200px; opacity:0.9; box-shadow: 2px}
+.gradient{background-image:linear-gradient(to right, #330033 , #ff0066);}
+.gradient2{background-image:linear-gradient(to bottom right, #602060, #ff0066);}
+#home{color: white; text-align: center; padding-top: 100px; font-size: 25px; color: lightgrey }
+h1{font-size: 60px; padding-bottom:10px; color: white}
+p{font-size: 20px}
+
+#pic2{padding-top: 40px; padding-bottom: 40px; text-align: center}
+#cluster1{background-color: lightgrey; text-align: center; padding-top:25px; padding-bottom: 50px}
+#cluster2{background-color: lightgrey; text-align: center; padding-top:25px; padding-bottom: 50px}
+.waffle{float: right; width: 600px; margin-right: 250px}
+h2{font-size: 60px; color: #660066}
+h3{font-size: 40px; color: #660066}
+.btn2{background-color: #ff0066; border-width: 0px}
+.navtabs{background-color: white; border-radius: 16px}
+#navish{background-color: lightgrey;}
+.nav-link{border-width: 1px}
+#media1{background-color: lightgrey; padding-top:50px; padding-bottom:}
+#testi{text-align: center; padding-top: 50px}
+.uhn{font-size: 25px; color: grey}
+#frcaro{padding-top: 35px; padding-bottom: 50px}
+#gallery{text-align: center; background-color: lightgrey; padding-top:25px}
+#pricing{text-align: center; padding-top:25px; padding-bottom: 25px}
+#cardx{padding-top: 25px}
+#download{text-align: center; padding-top: 25px; font-size: 25px; color: lightgrey}
+.imgcut{height: 0; padding-bottom: 43%; overflow: hidden;}
+#contact{text-align: center}
